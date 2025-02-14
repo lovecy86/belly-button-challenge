@@ -36,3 +36,4 @@ Visualization: Plotly.js
 ![Dashboard Screenshot](dashboard.png)
 
 Deployment: GitHub Pages 
+https://lovecy86.github.io/belly-button-challenge/
